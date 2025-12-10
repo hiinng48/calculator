@@ -1,0 +1,11 @@
+bin/
+*.class
+
+.vscode/
+
+.project
+.classpath
+.settings/
+
+lib/
+
